@@ -1,0 +1,23 @@
+# Build artifacts
+**/Debug/
+**/Release/
+*.o
+*.d
+*.elf
+*.bin
+*.map
+*.list
+*.htm
+*.dep
+
+# IDE files (Keil, STM32CubeIDE)
+.settings/
+.project
+.cproject
+*.launch
+*.uvgui.*
+*.uvoptx
+
+# OS files
+.DS_Store
+Thumbs.db
